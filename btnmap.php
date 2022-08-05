@@ -42,12 +42,12 @@ body {
 	   
 .tex-style {
 	display:block;
-     font-size: 50px;
-     background: -webkit-linear-gradient(#FDF5E6, #F0FFFF);
-	 -webkit-background-clip: text;
-     -webkit-text-fill-color: transparent;
-	  margin: 0 auto;
-     text-align: center;
+        font-size: 50px;
+        background: -webkit-linear-gradient(#FDF5E6, #F0FFFF);
+	-webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+	 margin: 0 auto;
+         text-align: center;
 	 }
 </style>
 </head>	   
